@@ -14,7 +14,7 @@
         android:layout_height="100dp"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:contentDescription="ON/OFF"
+        android:contentDescription="@string/onOffSwitchContentDescription"
         android:onClick="OnOffSwitchClick"
         android:src="@drawable/ic_launcher" />
 
